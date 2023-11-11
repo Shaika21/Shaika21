@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shay
 - 👀 I’m 18 and I'm interested in computer sciences, and engineering
-- 🌱 I’m currently learning data analyst foundations
+- 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on data analyst projects
 - 📫 How to reach me
   email: shaika.chrone@gmail.com
